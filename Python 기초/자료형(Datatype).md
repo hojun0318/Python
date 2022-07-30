@@ -126,7 +126,7 @@ print(math.isclose(a, b)) # True
     - 영어로는 String Concatenation이라고 함
     ```
     print("Hello" + "World") # HelloWorld
-
+    ```
 - 곱셈
     - 2 * 3은 2 + 2 + 2랑 같고, 결과는 6
     - 문자열 "Python" * 3은?
